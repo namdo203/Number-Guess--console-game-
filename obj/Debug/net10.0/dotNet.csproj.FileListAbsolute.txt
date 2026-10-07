@@ -1,0 +1,14 @@
+/home/namdo/Documents/dotNet/bin/Debug/net10.0/dotNet
+/home/namdo/Documents/dotNet/bin/Debug/net10.0/dotNet.deps.json
+/home/namdo/Documents/dotNet/bin/Debug/net10.0/dotNet.runtimeconfig.json
+/home/namdo/Documents/dotNet/bin/Debug/net10.0/dotNet.dll
+/home/namdo/Documents/dotNet/bin/Debug/net10.0/dotNet.pdb
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.AssemblyInfoInputs.cache
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.AssemblyInfo.cs
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.csproj.CoreCompileInputs.cache
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.dll
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/refint/dotNet.dll
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.pdb
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/dotNet.genruntimeconfig.cache
+/home/namdo/Documents/dotNet/obj/Debug/net10.0/ref/dotNet.dll
